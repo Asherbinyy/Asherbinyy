@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sherbinovic](https://linktr.ee/AhmedElsherbiny)
 
-- 💬 Ask me about **Flutter, Dart, Kotlin**
+- 💬 Ask me about **Flutter, Dart, Swift**
 
 - 📫 How to reach me **ahmed.elsherbiny2020@gmail.com**
 
