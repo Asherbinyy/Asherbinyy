@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Design Patterns**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/sherbinovic](https://linktr.ee/AhmedElsherbiny)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/AhmedElsherbiny](https://linktr.ee/AhmedElsherbiny)
 
 - 💬 Ask me about **Flutter, Dart, Swift**
 
