@@ -35,7 +35,7 @@ final sherbini = Engineer(
 
 | App | What it does |
 |---|---|
-| [**AZ Courses**](https://sherbini.uk/work/az-courses) | Learning platform rebuilt around video, PDF and audio · 50K+ downloads |
+| [**MiNextStep**](https://sherbini.uk/work/minextstep) | Community app connecting young professionals with peers and mentors |
 | [**Mokaf**](https://sherbini.uk/work/mokaf) | Smart parking with live maps, QR entry and payments |
 | [**Tripster**](https://sherbini.uk/work/tripster) | Travel marketplace, migrated from native Android to Flutter |
 | [**Malboos**](https://sherbini.uk/work/malboos) | Resale marketplace for pre-loved clothes |
